@@ -33,7 +33,7 @@ Unfortunately, this technique doesn’t work very well for every kind of picture
 we experience bad performance in “fine grained” textures like grass, human hair, animal fur and all this kind of patterns which actually require an high number of pixels to be well represented.
 
 ## Original image (4,7 MB)
-![mountain](/uploads/77ff187f4f3b2320c7be23e9bdbdc7f1/mountain.jpg)
+![mountain](https://raw.githubusercontent.com/hazem-kamel/Image-Compression/main/mountain.jpg)
 
 ## Compressed image [10%] (1,9 MB)
 ![compressed_10.0_](/uploads/b97fc013c4314b79e17113fd199ac400/compressed_10.0_.jpg)
