@@ -36,4 +36,4 @@ we experience bad performance in “fine grained” textures like grass, human h
 ![mountain](https://raw.githubusercontent.com/hazem-kamel/Image-Compression/main/mountain.jpg)
 
 ## Compressed image [10%] (1,9 MB)
-![compressed_10.0_](/uploads/b97fc013c4314b79e17113fd199ac400/compressed_10.0_.jpg)
+![compressed_10.0_](https://raw.githubusercontent.com/hazem-kamel/Image-Compression/main/compressed_image_colour10.0%25.jpg)
