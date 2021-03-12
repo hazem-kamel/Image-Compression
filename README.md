@@ -1,17 +1,4 @@
 # Image-Compression
-<script src="//yihui.org/js/math-code.js"></script>
-<!-- Just one possible MathJax CDN below. You may use others. -->
-<script async
-  src="//mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML">
-</script>
-
-# FFT
-## Abstract
-The essay deals with the Fast Fourier Transform, it’s history, algorithms and
-applications. One application will be selected with clarification of the problem
-intended to be solved, FFT algorithm would be applied and explanation of every
-step taken would be shown clearly.
-
 ## Introduction
 A fast Fourier transform (FFT) is an algorithm that computes the discrete Fourier
 transform (DFT) of a sequence, or its inverse (IDFT). Fourier analysis converts a
